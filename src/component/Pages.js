@@ -5,6 +5,7 @@ export default function Pages() {
     return (
         <div className ="pages">
 
+      <p>form  <p/>
             <div className="container">
           <Form>
  
